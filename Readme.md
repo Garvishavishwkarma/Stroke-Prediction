@@ -1,4 +1,4 @@
-# Stroke Prediction
+
 
 ## Context:
 
