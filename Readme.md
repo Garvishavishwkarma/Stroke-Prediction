@@ -6,11 +6,12 @@ According to the World Health Organization (WHO) stroke is the 2nd leading cause
 ## Required Python Packages and Libraries
 
 Numpy
+
 Pandas
+
 Matplolib
+
 Seaborn
-Plotly
-Scikit-learn
 
 
 ## Dataset Link
